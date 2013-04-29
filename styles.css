@@ -1,0 +1,23 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #333;
+	margin: 0px;
+	padding: 0px;
+	color: #000;
+}
+.wrapper .navigation .table {
+	text-align: center;
+	vertical-align: top;
+}
+
+.wrapper {
+	background-color: #FFF;
+	width: 950px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 0px;
+	border: medium solid #000;
+	margin-bottom: 30px;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<title>OC Dirtbags</title>
+		<!-- TemplateEndEditable -->
+		<!-- TemplateBeginEditable name="head" -->
+		<!-- TemplateEndEditable -->
+		<link href="../styles.css" rel="stylesheet" type="text/css" />
+	</head>
+	
+	<body>
+		<div class="wrapper">
+			<div class="navigation">
+				<div class="table">
+					<table>
+						<tr>
+		<td><a href="../index.html">Home</a></td>
+		<td><a href="../coaches.html">Coaching Staff</a></td>
+		<td><a href="../teams.html">Teams</a></td>
+		<td><a href="../schedule.html">Schedule</a></td>
+		<td><a href="../contact.html">Contact Us</a></td>
+	</tr>
+</table>
+				</div>
+
+			</div>
+			<div class="content">
+				<!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable -->
+			</div>
+			<div class="footer">
+				<p>This will be the footer.</p>
+			</div>
+		</div>
+	</body>
+</html>
