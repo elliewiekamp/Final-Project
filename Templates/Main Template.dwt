@@ -14,27 +14,26 @@
 		<div class="wrapper">
 			<div class="navigation">
 				<div class="table">
-					<div class="image">
+					<div class="image"><span class="image"><img src="../images/Dirtbags.jpg" width="640" height="250" /></span>
+					  <table width="601">
+                        <tr>
+                          <td width="107"><a href="../index.html">Home</a></td>
+                          <td width="265"><a href="../coaches.html">Coaching Staff</a></td>
+                          <td width="125"><a href="../teams.html">Teams</a></td>
+                          <td width="169"><a href="../schedule.html">Schedule</a></td>
+                          <td width="146"><a href="../contact.html">Contact Us</a></td>
+                        </tr>
+                      </table>
 					</div>
-					<span class="image"><img src="../images/ocdirtbags.jpg" width="310" height="163" /></span>
-					<table width="601">
-						<tr>
-		<td width="107"><a href="../index.html">Home</a></td>
-		<td width="265"><a href="../coaches.html">Coaching Staff</a></td>
-		<td width="125"><a href="../teams.html">Teams</a></td>
-		<td width="169"><a href="../schedule.html">Schedule</a></td>
-		<td width="146"><a href="../contact.html">Contact Us</a></td>
-	</tr>
-</table>
-				</div>
+</div>
 
 			</div>
 			<div class="content">
 				<!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable -->
 			</div>
 			<div class="footer">
-				<p>This will be the footer.</p>
-			</div>
-		</div>
+				<p><span class="image"><img src="../images/ocdirtbags.jpg" width="310" height="163" /></span></p>
+		  </div>
+	</div>
 	</body>
 </html>
